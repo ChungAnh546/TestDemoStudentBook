@@ -1,0 +1,271 @@
+<html>
+<head>
+<title>TestNG:  Default test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Default test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>14/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Mon Jul 17 10:43:59 ICT 2023</td>
+</tr>
+<tr><td>Total time:</td><td>181 seconds (181976 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.test.testAll.performLogin()'><b>performLogin</b><br>Test class: com.test.testAll</td>
+<td></td>
+<td>3</td>
+<td>com.test.testAll@229f66ed</td></tr>
+<tr>
+<td title='com.test.testAll.checkLogin()'><b>checkLogin</b><br>Test class: com.test.testAll</td>
+<td></td>
+<td>0</td>
+<td>com.test.testAll@229f66ed</td></tr>
+<tr>
+<td title='com.test.testAll.performAddStudent()'><b>performAddStudent</b><br>Test class: com.test.testAll</td>
+<td></td>
+<td>23</td>
+<td>com.test.testAll@229f66ed</td></tr>
+<tr>
+<td title='com.test.testAll.checkDeleteBook()'><b>checkDeleteBook</b><br>Test class: com.test.testAll</td>
+<td></td>
+<td>3</td>
+<td>com.test.testAll@229f66ed</td></tr>
+<tr>
+<td title='com.test.testAll.performAddBook()'><b>performAddBook</b><br>Test class: com.test.testAll<br/>
+<a href="#Output-1689309690" onClick='toggleBox("Output-1689309690", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1689309690" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1689309690">
+Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)<br/>
+Screenshot taken current URL: http://192.168.10.128:8081/book/search<br/>
+Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)<br/>
+Screenshot taken current URL: http://192.168.10.128:8081/book/search<br/>
+Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)<br/>
+Screenshot taken current URL: http://192.168.10.128:8081/book/search<br/>
+Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)<br/>
+Screenshot taken current URL: http://192.168.10.128:8081/book/search<br/>
+Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)<br/>
+Screenshot taken current URL: http://192.168.10.128:8081/book/search<br/>
+Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)<br/>
+Screenshot taken current URL: http://192.168.10.128:8081/book/search<br/>
+Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)<br/>
+Screenshot taken current URL: http://192.168.10.128:8081/book/search<br/>
+</div>
+</td>
+<td></td>
+<td>27</td>
+<td>com.test.testAll@229f66ed</td></tr>
+<tr>
+<td title='com.test.testAll.checkUpdateStudent()'><b>checkUpdateStudent</b><br>Test class: com.test.testAll<br/>
+<a href="#Output-806630651" onClick='toggleBox("Output-806630651", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-806630651" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-806630651">
+Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)<br/>
+Screenshot taken current URL: http://192.168.10.128:8081/student/search<br/>
+Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)<br/>
+Screenshot taken current URL: http://192.168.10.128:8081/student/search<br/>
+Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)<br/>
+Screenshot taken current URL: http://192.168.10.128:8081/student/search<br/>
+Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)<br/>
+Screenshot taken current URL: http://192.168.10.128:8081/student/search<br/>
+</div>
+</td>
+<td></td>
+<td>15</td>
+<td>com.test.testAll@229f66ed</td></tr>
+<tr>
+<td title='com.test.testAll.checkAddStudent()'><b>checkAddStudent</b><br>Test class: com.test.testAll<br/>
+<a href="#Output-1178969461" onClick='toggleBox("Output-1178969461", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1178969461" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1178969461">
+Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)<br/>
+Screenshot taken current URL: http://192.168.10.128:8081/student/search<br/>
+Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)<br/>
+Screenshot taken current URL: http://192.168.10.128:8081/student/search<br/>
+</div>
+</td>
+<td></td>
+<td>4</td>
+<td>com.test.testAll@229f66ed</td></tr>
+<tr>
+<td title='com.test.testAll.checkAddBook()'><b>checkAddBook</b><br>Test class: com.test.testAll<br/>
+<a href="#Output-724190002" onClick='toggleBox("Output-724190002", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-724190002" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-724190002">
+Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)<br/>
+Screenshot taken current URL: http://192.168.10.128:8081/book/search<br/>
+Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)<br/>
+Screenshot taken current URL: http://192.168.10.128:8081/book/search<br/>
+Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)<br/>
+Screenshot taken current URL: http://192.168.10.128:8081/book/search<br/>
+</div>
+</td>
+<td></td>
+<td>11</td>
+<td>com.test.testAll@229f66ed</td></tr>
+<tr>
+<td title='com.test.testAll.preformDeleteBook()'><b>preformDeleteBook</b><br>Test class: com.test.testAll<br/>
+<a href="#Output-1180504901" onClick='toggleBox("Output-1180504901", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1180504901" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1180504901">
+Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)<br/>
+Screenshot taken current URL: http://192.168.10.128:8081/book/search<br/>
+Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)<br/>
+Screenshot taken current URL: http://192.168.10.128:8081/book/search<br/>
+Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)<br/>
+Screenshot taken current URL: http://192.168.10.128:8081/book/search<br/>
+Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)<br/>
+Screenshot taken current URL: http://192.168.10.128:8081/book/search<br/>
+</div>
+</td>
+<td></td>
+<td>19</td>
+<td>com.test.testAll@229f66ed</td></tr>
+<tr>
+<td title='com.test.testAll.preformDeleteStudent()'><b>preformDeleteStudent</b><br>Test class: com.test.testAll<br/>
+<a href="#Output-361967535" onClick='toggleBox("Output-361967535", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-361967535" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-361967535">
+Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)<br/>
+Screenshot taken current URL: http://192.168.10.128:8081/student/search<br/>
+Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)<br/>
+Screenshot taken current URL: http://192.168.10.128:8081/student/search<br/>
+Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)<br/>
+Screenshot taken current URL: http://192.168.10.128:8081/student/search<br/>
+Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)<br/>
+Screenshot taken current URL: http://192.168.10.128:8081/student/search<br/>
+</div>
+</td>
+<td></td>
+<td>20</td>
+<td>com.test.testAll@229f66ed</td></tr>
+<tr>
+<td title='com.test.testAll.performUpdateBook()'><b>performUpdateBook</b><br>Test class: com.test.testAll<br/>
+<a href="#Output-1128856117" onClick='toggleBox("Output-1128856117", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1128856117" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1128856117">
+Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)<br/>
+Screenshot taken current URL: http://192.168.10.128:8081/book/search<br/>
+Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)<br/>
+Screenshot taken current URL: http://192.168.10.128:8081/book/search<br/>
+Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)<br/>
+Screenshot taken current URL: http://192.168.10.128:8081/book/search<br/>
+Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)<br/>
+Screenshot taken current URL: http://192.168.10.128:8081/book/search<br/>
+</div>
+</td>
+<td></td>
+<td>16</td>
+<td>com.test.testAll@229f66ed</td></tr>
+<tr>
+<td title='com.test.testAll.checkDeleteStudent()'><b>checkDeleteStudent</b><br>Test class: com.test.testAll</td>
+<td></td>
+<td>3</td>
+<td>com.test.testAll@229f66ed</td></tr>
+<tr>
+<td title='com.test.testAll.performUpdateStudent()'><b>performUpdateStudent</b><br>Test class: com.test.testAll<br/>
+<a href="#Output-144560386" onClick='toggleBox("Output-144560386", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-144560386" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-144560386">
+Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)<br/>
+Screenshot taken current URL: http://192.168.10.128:8081/student/search<br/>
+Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)<br/>
+Screenshot taken current URL: http://192.168.10.128:8081/student/search<br/>
+</div>
+</td>
+<td></td>
+<td>15</td>
+<td>com.test.testAll@229f66ed</td></tr>
+<tr>
+<td title='com.test.testAll.checkUpdateBook()'><b>checkUpdateBook</b><br>Test class: com.test.testAll<br/>
+<a href="#Output-725291300" onClick='toggleBox("Output-725291300", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-725291300" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-725291300">
+Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)<br/>
+Screenshot taken current URL: http://192.168.10.128:8081/book/search<br/>
+Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)<br/>
+Screenshot taken current URL: http://192.168.10.128:8081/book/search<br/>
+Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)<br/>
+Screenshot taken current URL: http://192.168.10.128:8081/book/search<br/>
+Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)<br/>
+Screenshot taken current URL: http://192.168.10.128:8081/book/search<br/>
+</div>
+</td>
+<td></td>
+<td>14</td>
+<td>com.test.testAll@229f66ed</td></tr>
+</table><p>
+</body>
+</html>

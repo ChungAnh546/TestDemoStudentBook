@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="16" passed="14" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)]]>
+    </line>
+    <line>
+      <![CDATA[Screenshot taken current URL: http://192.168.10.128:8081/book/search]]>
+    </line>
+    <line>
+      <![CDATA[Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)]]>
+    </line>
+    <line>
+      <![CDATA[Screenshot taken current URL: http://192.168.10.128:8081/book/search]]>
+    </line>
+    <line>
+      <![CDATA[Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)]]>
+    </line>
+    <line>
+      <![CDATA[Screenshot taken current URL: http://192.168.10.128:8081/book/search]]>
+    </line>
+    <line>
+      <![CDATA[Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)]]>
+    </line>
+    <line>
+      <![CDATA[Screenshot taken current URL: http://192.168.10.128:8081/book/search]]>
+    </line>
+    <line>
+      <![CDATA[Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)]]>
+    </line>
+    <line>
+      <![CDATA[Screenshot taken current URL: http://192.168.10.128:8081/book/search]]>
+    </line>
+    <line>
+      <![CDATA[Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)]]>
+    </line>
+    <line>
+      <![CDATA[Screenshot taken current URL: http://192.168.10.128:8081/book/search]]>
+    </line>
+    <line>
+      <![CDATA[Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)]]>
+    </line>
+    <line>
+      <![CDATA[Screenshot taken current URL: http://192.168.10.128:8081/book/search]]>
+    </line>
+    <line>
+      <![CDATA[Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)]]>
+    </line>
+    <line>
+      <![CDATA[Screenshot taken current URL: http://192.168.10.128:8081/book/search]]>
+    </line>
+    <line>
+      <![CDATA[Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)]]>
+    </line>
+    <line>
+      <![CDATA[Screenshot taken current URL: http://192.168.10.128:8081/book/search]]>
+    </line>
+    <line>
+      <![CDATA[Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)]]>
+    </line>
+    <line>
+      <![CDATA[Screenshot taken current URL: http://192.168.10.128:8081/book/search]]>
+    </line>
+    <line>
+      <![CDATA[Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)]]>
+    </line>
+    <line>
+      <![CDATA[Screenshot taken current URL: http://192.168.10.128:8081/book/search]]>
+    </line>
+    <line>
+      <![CDATA[Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)]]>
+    </line>
+    <line>
+      <![CDATA[Screenshot taken current URL: http://192.168.10.128:8081/book/search]]>
+    </line>
+    <line>
+      <![CDATA[Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)]]>
+    </line>
+    <line>
+      <![CDATA[Screenshot taken current URL: http://192.168.10.128:8081/book/search]]>
+    </line>
+    <line>
+      <![CDATA[Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)]]>
+    </line>
+    <line>
+      <![CDATA[Screenshot taken current URL: http://192.168.10.128:8081/book/search]]>
+    </line>
+    <line>
+      <![CDATA[Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)]]>
+    </line>
+    <line>
+      <![CDATA[Screenshot taken current URL: http://192.168.10.128:8081/book/search]]>
+    </line>
+    <line>
+      <![CDATA[Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)]]>
+    </line>
+    <line>
+      <![CDATA[Screenshot taken current URL: http://192.168.10.128:8081/book/search]]>
+    </line>
+    <line>
+      <![CDATA[Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)]]>
+    </line>
+    <line>
+      <![CDATA[Screenshot taken current URL: http://192.168.10.128:8081/book/search]]>
+    </line>
+    <line>
+      <![CDATA[Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)]]>
+    </line>
+    <line>
+      <![CDATA[Screenshot taken current URL: http://192.168.10.128:8081/book/search]]>
+    </line>
+    <line>
+      <![CDATA[Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)]]>
+    </line>
+    <line>
+      <![CDATA[Screenshot taken current URL: http://192.168.10.128:8081/book/search]]>
+    </line>
+    <line>
+      <![CDATA[Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)]]>
+    </line>
+    <line>
+      <![CDATA[Screenshot taken current URL: http://192.168.10.128:8081/book/search]]>
+    </line>
+    <line>
+      <![CDATA[Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)]]>
+    </line>
+    <line>
+      <![CDATA[Screenshot taken current URL: http://192.168.10.128:8081/book/search]]>
+    </line>
+    <line>
+      <![CDATA[Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)]]>
+    </line>
+    <line>
+      <![CDATA[Screenshot taken current URL: http://192.168.10.128:8081/book/search]]>
+    </line>
+    <line>
+      <![CDATA[Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)]]>
+    </line>
+    <line>
+      <![CDATA[Screenshot taken current URL: http://192.168.10.128:8081/student/search]]>
+    </line>
+    <line>
+      <![CDATA[Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)]]>
+    </line>
+    <line>
+      <![CDATA[Screenshot taken current URL: http://192.168.10.128:8081/student/search]]>
+    </line>
+    <line>
+      <![CDATA[Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)]]>
+    </line>
+    <line>
+      <![CDATA[Screenshot taken current URL: http://192.168.10.128:8081/student/search]]>
+    </line>
+    <line>
+      <![CDATA[Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)]]>
+    </line>
+    <line>
+      <![CDATA[Screenshot taken current URL: http://192.168.10.128:8081/student/search]]>
+    </line>
+    <line>
+      <![CDATA[Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)]]>
+    </line>
+    <line>
+      <![CDATA[Screenshot taken current URL: http://192.168.10.128:8081/student/search]]>
+    </line>
+    <line>
+      <![CDATA[Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)]]>
+    </line>
+    <line>
+      <![CDATA[Screenshot taken current URL: http://192.168.10.128:8081/student/search]]>
+    </line>
+    <line>
+      <![CDATA[Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)]]>
+    </line>
+    <line>
+      <![CDATA[Screenshot taken current URL: http://192.168.10.128:8081/student/search]]>
+    </line>
+    <line>
+      <![CDATA[Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)]]>
+    </line>
+    <line>
+      <![CDATA[Screenshot taken current URL: http://192.168.10.128:8081/student/search]]>
+    </line>
+    <line>
+      <![CDATA[Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)]]>
+    </line>
+    <line>
+      <![CDATA[Screenshot taken current URL: http://192.168.10.128:8081/student/search]]>
+    </line>
+    <line>
+      <![CDATA[Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)]]>
+    </line>
+    <line>
+      <![CDATA[Screenshot taken current URL: http://192.168.10.128:8081/student/search]]>
+    </line>
+    <line>
+      <![CDATA[Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)]]>
+    </line>
+    <line>
+      <![CDATA[Screenshot taken current URL: http://192.168.10.128:8081/student/search]]>
+    </line>
+    <line>
+      <![CDATA[Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)]]>
+    </line>
+    <line>
+      <![CDATA[Screenshot taken current URL: http://192.168.10.128:8081/student/search]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-07-17T10:43:59 ICT" name="Default suite" finished-at="2023-07-17T10:47:01 ICT" duration-ms="181976">
+    <groups>
+    </groups>
+    <test started-at="2023-07-17T10:43:59 ICT" name="Default test" finished-at="2023-07-17T10:47:01 ICT" duration-ms="181976">
+      <class name="com.test.testAll">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.test.testAll@229f66ed]" started-at="2023-07-17T10:43:59 ICT" name="beforeTest" finished-at="2023-07-17T10:44:02 ICT" duration-ms="2792" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="performLogin()[pri:0, instance:com.test.testAll@229f66ed]" started-at="2023-07-17T10:44:02 ICT" name="performLogin" finished-at="2023-07-17T10:44:05 ICT" duration-ms="3290" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- performLogin -->
+        <test-method signature="checkLogin()[pri:1, instance:com.test.testAll@229f66ed]" started-at="2023-07-17T10:44:05 ICT" name="checkLogin" finished-at="2023-07-17T10:44:05 ICT" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLogin -->
+        <test-method signature="performAddBook()[pri:2, instance:com.test.testAll@229f66ed]" started-at="2023-07-17T10:44:05 ICT" name="performAddBook" finished-at="2023-07-17T10:44:32 ICT" duration-ms="27605" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)]]>
+            </line>
+            <line>
+              <![CDATA[Screenshot taken current URL: http://192.168.10.128:8081/book/search]]>
+            </line>
+            <line>
+              <![CDATA[Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)]]>
+            </line>
+            <line>
+              <![CDATA[Screenshot taken current URL: http://192.168.10.128:8081/book/search]]>
+            </line>
+            <line>
+              <![CDATA[Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)]]>
+            </line>
+            <line>
+              <![CDATA[Screenshot taken current URL: http://192.168.10.128:8081/book/search]]>
+            </line>
+            <line>
+              <![CDATA[Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)]]>
+            </line>
+            <line>
+              <![CDATA[Screenshot taken current URL: http://192.168.10.128:8081/book/search]]>
+            </line>
+            <line>
+              <![CDATA[Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)]]>
+            </line>
+            <line>
+              <![CDATA[Screenshot taken current URL: http://192.168.10.128:8081/book/search]]>
+            </line>
+            <line>
+              <![CDATA[Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)]]>
+            </line>
+            <line>
+              <![CDATA[Screenshot taken current URL: http://192.168.10.128:8081/book/search]]>
+            </line>
+            <line>
+              <![CDATA[Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)]]>
+            </line>
+            <line>
+              <![CDATA[Screenshot taken current URL: http://192.168.10.128:8081/book/search]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- performAddBook -->
+        <test-method signature="checkAddBook()[pri:3, instance:com.test.testAll@229f66ed]" started-at="2023-07-17T10:44:32 ICT" name="checkAddBook" finished-at="2023-07-17T10:44:44 ICT" duration-ms="11279" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)]]>
+            </line>
+            <line>
+              <![CDATA[Screenshot taken current URL: http://192.168.10.128:8081/book/search]]>
+            </line>
+            <line>
+              <![CDATA[Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)]]>
+            </line>
+            <line>
+              <![CDATA[Screenshot taken current URL: http://192.168.10.128:8081/book/search]]>
+            </line>
+            <line>
+              <![CDATA[Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)]]>
+            </line>
+            <line>
+              <![CDATA[Screenshot taken current URL: http://192.168.10.128:8081/book/search]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkAddBook -->
+        <test-method signature="performUpdateBook()[pri:4, instance:com.test.testAll@229f66ed]" started-at="2023-07-17T10:44:44 ICT" name="performUpdateBook" finished-at="2023-07-17T10:45:01 ICT" duration-ms="16799" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)]]>
+            </line>
+            <line>
+              <![CDATA[Screenshot taken current URL: http://192.168.10.128:8081/book/search]]>
+            </line>
+            <line>
+              <![CDATA[Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)]]>
+            </line>
+            <line>
+              <![CDATA[Screenshot taken current URL: http://192.168.10.128:8081/book/search]]>
+            </line>
+            <line>
+              <![CDATA[Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)]]>
+            </line>
+            <line>
+              <![CDATA[Screenshot taken current URL: http://192.168.10.128:8081/book/search]]>
+            </line>
+            <line>
+              <![CDATA[Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)]]>
+            </line>
+            <line>
+              <![CDATA[Screenshot taken current URL: http://192.168.10.128:8081/book/search]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- performUpdateBook -->
+        <test-method signature="checkUpdateBook()[pri:5, instance:com.test.testAll@229f66ed]" started-at="2023-07-17T10:45:01 ICT" name="checkUpdateBook" finished-at="2023-07-17T10:45:15 ICT" duration-ms="14275" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)]]>
+            </line>
+            <line>
+              <![CDATA[Screenshot taken current URL: http://192.168.10.128:8081/book/search]]>
+            </line>
+            <line>
+              <![CDATA[Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)]]>
+            </line>
+            <line>
+              <![CDATA[Screenshot taken current URL: http://192.168.10.128:8081/book/search]]>
+            </line>
+            <line>
+              <![CDATA[Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)]]>
+            </line>
+            <line>
+              <![CDATA[Screenshot taken current URL: http://192.168.10.128:8081/book/search]]>
+            </line>
+            <line>
+              <![CDATA[Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)]]>
+            </line>
+            <line>
+              <![CDATA[Screenshot taken current URL: http://192.168.10.128:8081/book/search]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkUpdateBook -->
+        <test-method signature="preformDeleteBook()[pri:6, instance:com.test.testAll@229f66ed]" started-at="2023-07-17T10:45:15 ICT" name="preformDeleteBook" finished-at="2023-07-17T10:45:34 ICT" duration-ms="19490" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)]]>
+            </line>
+            <line>
+              <![CDATA[Screenshot taken current URL: http://192.168.10.128:8081/book/search]]>
+            </line>
+            <line>
+              <![CDATA[Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)]]>
+            </line>
+            <line>
+              <![CDATA[Screenshot taken current URL: http://192.168.10.128:8081/book/search]]>
+            </line>
+            <line>
+              <![CDATA[Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)]]>
+            </line>
+            <line>
+              <![CDATA[Screenshot taken current URL: http://192.168.10.128:8081/book/search]]>
+            </line>
+            <line>
+              <![CDATA[Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)]]>
+            </line>
+            <line>
+              <![CDATA[Screenshot taken current URL: http://192.168.10.128:8081/book/search]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- preformDeleteBook -->
+        <test-method signature="checkDeleteBook()[pri:7, instance:com.test.testAll@229f66ed]" started-at="2023-07-17T10:45:34 ICT" name="checkDeleteBook" finished-at="2023-07-17T10:45:38 ICT" duration-ms="3430" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkDeleteBook -->
+        <test-method signature="performAddStudent()[pri:8, instance:com.test.testAll@229f66ed]" started-at="2023-07-17T10:45:38 ICT" name="performAddStudent" finished-at="2023-07-17T10:46:01 ICT" duration-ms="23296" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- performAddStudent -->
+        <test-method signature="checkAddStudent()[pri:9, instance:com.test.testAll@229f66ed]" started-at="2023-07-17T10:46:01 ICT" name="checkAddStudent" finished-at="2023-07-17T10:46:06 ICT" duration-ms="4860" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)]]>
+            </line>
+            <line>
+              <![CDATA[Screenshot taken current URL: http://192.168.10.128:8081/student/search]]>
+            </line>
+            <line>
+              <![CDATA[Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)]]>
+            </line>
+            <line>
+              <![CDATA[Screenshot taken current URL: http://192.168.10.128:8081/student/search]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkAddStudent -->
+        <test-method signature="performUpdateStudent()[pri:10, instance:com.test.testAll@229f66ed]" started-at="2023-07-17T10:46:06 ICT" name="performUpdateStudent" finished-at="2023-07-17T10:46:21 ICT" duration-ms="15061" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)]]>
+            </line>
+            <line>
+              <![CDATA[Screenshot taken current URL: http://192.168.10.128:8081/student/search]]>
+            </line>
+            <line>
+              <![CDATA[Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)]]>
+            </line>
+            <line>
+              <![CDATA[Screenshot taken current URL: http://192.168.10.128:8081/student/search]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- performUpdateStudent -->
+        <test-method signature="checkUpdateStudent()[pri:11, instance:com.test.testAll@229f66ed]" started-at="2023-07-17T10:46:21 ICT" name="checkUpdateStudent" finished-at="2023-07-17T10:46:36 ICT" duration-ms="15260" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)]]>
+            </line>
+            <line>
+              <![CDATA[Screenshot taken current URL: http://192.168.10.128:8081/student/search]]>
+            </line>
+            <line>
+              <![CDATA[Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)]]>
+            </line>
+            <line>
+              <![CDATA[Screenshot taken current URL: http://192.168.10.128:8081/student/search]]>
+            </line>
+            <line>
+              <![CDATA[Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)]]>
+            </line>
+            <line>
+              <![CDATA[Screenshot taken current URL: http://192.168.10.128:8081/student/search]]>
+            </line>
+            <line>
+              <![CDATA[Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)]]>
+            </line>
+            <line>
+              <![CDATA[Screenshot taken current URL: http://192.168.10.128:8081/student/search]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkUpdateStudent -->
+        <test-method signature="preformDeleteStudent()[pri:12, instance:com.test.testAll@229f66ed]" started-at="2023-07-17T10:46:36 ICT" name="preformDeleteStudent" finished-at="2023-07-17T10:46:57 ICT" duration-ms="20322" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)]]>
+            </line>
+            <line>
+              <![CDATA[Screenshot taken current URL: http://192.168.10.128:8081/student/search]]>
+            </line>
+            <line>
+              <![CDATA[Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)]]>
+            </line>
+            <line>
+              <![CDATA[Screenshot taken current URL: http://192.168.10.128:8081/student/search]]>
+            </line>
+            <line>
+              <![CDATA[Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)]]>
+            </line>
+            <line>
+              <![CDATA[Screenshot taken current URL: http://192.168.10.128:8081/student/search]]>
+            </line>
+            <line>
+              <![CDATA[Driver for Screenshot: ChromeDriver: chrome on WINDOWS (22c09f7c48a8fa9e14ce0036f04c0607)]]>
+            </line>
+            <line>
+              <![CDATA[Screenshot taken current URL: http://192.168.10.128:8081/student/search]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- preformDeleteStudent -->
+        <test-method signature="checkDeleteStudent()[pri:13, instance:com.test.testAll@229f66ed]" started-at="2023-07-17T10:46:57 ICT" name="checkDeleteStudent" finished-at="2023-07-17T10:47:00 ICT" duration-ms="3464" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkDeleteStudent -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.test.testAll@229f66ed]" started-at="2023-07-17T10:47:00 ICT" name="afterTest" finished-at="2023-07-17T10:47:01 ICT" duration-ms="684" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.test.testAll -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

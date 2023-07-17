@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [CRMSuite]" guice-stage="DEVELOPMENT">
+  <parameter name="webURL" value="https://crm.anhtester.com/signin"/>
+  <parameter name="browserType" value="chrome"/>
+  <test thread-count="5" name="CRMTest(failed)">
+    <classes>
+      <class name="anhtester.com.testcases.SignInTest">
+        <methods>
+          <include name="signInPageReadExcelDynamic"/>
+          <include name="closeBrowser"/>
+          <include name="signInPage"/>
+          <include name="setupBrowser"/>
+        </methods>
+      </class> <!-- anhtester.com.testcases.SignInTest -->
+    </classes>
+  </test> <!-- CRMTest(failed) -->
+</suite> <!-- Failed suite [CRMSuite] -->

@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="CRMSuite" verbose="1">
+
+    <parameter name="browserType" value="chrome"></parameter>
+    <parameter name="webURL" value="https://"></parameter>
+
+    <test name="CRMTest">
+        <classes>
+           
+            <class name="com.test.TestAll"></class>
+          
+           
+        </classes>
+    </test>
+</suite>
